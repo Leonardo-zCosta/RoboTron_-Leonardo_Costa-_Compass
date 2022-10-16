@@ -1,4 +1,4 @@
-from tkinter import dialog
+
 
 
 idade = int(input("Digite a idade: "))
